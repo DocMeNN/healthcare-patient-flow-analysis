@@ -186,4 +186,6 @@ Potential future extensions of this project include:
 
 # Author
 
+'tisDocMe
+
 Healthcare Operations & Data Analytics Project developed using Python and healthcare operational data analysis techniques.
