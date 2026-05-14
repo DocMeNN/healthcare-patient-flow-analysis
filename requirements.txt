@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
+=======
+pandas
+numpy
+matplotlib
+seaborn
+>>>>>>> f103acf0f0b00b3b588082f9112e2017018651aa
 jupyter

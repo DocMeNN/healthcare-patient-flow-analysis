@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python cache
 __pycache__/
 
@@ -11,4 +12,19 @@ __pycache__/
 .env
 
 # Mac system files
+=======
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Mac system files
+>>>>>>> f103acf0f0b00b3b588082f9112e2017018651aa
 .DS_Store
